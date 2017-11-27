@@ -1,0 +1,124 @@
+	<string-array name="fortniteWeapons">
+        <item>Assault Rifles only</item>
+        <item>Grenade Launchers Only</item>
+        <item>Pistols only</item>
+        <item>Rocket Launchers only</item>
+        <item>Shotguns only</item>
+        <item>SMGs only</item>
+        <item>Sniper Rifles Only</item>
+        <item>M16 Only</item>
+        <item>SCAR Only</item>
+        <item>Scoped Assault Rifle Only</item>
+        <item>Scoped Rifle Only</item>
+        <item>Assault Rifle Burst Only</item>
+        <item>Revolver Only</item>
+        <item>Pistol Only</item>
+        <item>Pump Shotgun Only</item>
+        <item>Tactical Shotgun Only</item>
+        <item>Submachine Gun Only</item>
+        <item>Tactical SMG Only</item>
+        <item>Silenced SMG Only</item>
+        <item>Bolt Action Sniper AWP Only</item>
+        <item>Semi-Auto Sniper Only</item>
+        <item>Choose between the first 3 weapons you encounter, no other weapons are allowed.</item>
+        <item>Pistols and Assault Rifles Only</item>
+    </string-array>
+
+    <string-array name="fortniteRarity">
+        <item>Common (Gray) only</item>
+        <item>Uncommon (Green) only</item>
+        <item>Rare (Blue) only</item>
+        <item>Epic (Purple) only</item>
+        <item>Legendary (Orange) only</item>
+        <item>Uncommon (Green) or lower</item>
+        <item>Rare (Blue) or lower</item>
+        <item>Epic (Purple) or lower</item>
+        <item>Common (Gray) or higher</item>
+        <item>Uncommon (Green) or higher</item>
+        <item>Rare (Blue) or higher</item>
+        <item>Epic (Purple) or higher</item>
+        <item>Only Lengendary (Orange) or Common (Gray)</item>
+    </string-array>
+
+    <string-array name="fortniteX">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+    </string-array>
+
+    <string-array name="fortniteY">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+	
+	<string-array name="fortniteLocaties">
+        <item>Pleasant Park</item>
+		<item>Anarchy Acres</item>
+		<item>Tomato Town</item>
+		<item>Wailing Woods</item>
+		<item>Loot Lake</item>
+		<item>Dusty Depot</item>
+		<item>Lonely Lodge</item>
+		<item>Retail Row</item>
+		<item>Salty Springs</item>
+		<item>Greasy Grove</item>
+		<item>Flush Factory</item>
+		<item>Fatal Fields</item>
+		<item>Moisty Mire</item>
+    </string-array>
+
+    <string-array name="fortnitePremade">
+        <item>Defend Anarchy Acres until the storm rolls in&#8230;</item>
+        <item>Defend Wailing Woods until the storm rolls in&#8230;</item>
+        <item>Defend Lonely Lodge until the storm rolls in&#8230;</item>
+        <item>Defend Greasy Grove until the storm rolls in&#8230;</item>
+        <item>Defend Plesant Park until the storm rolls in&#8230;</item>
+        <item>Defend Fatal Fields until the storm rolls in&#8230;</item>
+        <item>Defend Flush Factory until the storm rolls in&#8230;</item>
+        <item>Defend Moisty Mire until the storm rolls in&#8230;</item>
+        <item>Defend Retail Row until the storm rolls in&#8230;</item>
+        <item>Defend Loot Lake until the storm rolls in&#8230;</item>
+        <item>Defend an unnamed area until the storm rolls in&#8230;</item>
+        <item>Your legs are broken, No Running.</item>
+        <item>No Building</item>
+        <item>You have refined taste, no common guns allowed&#8230;</item>
+        <item>Automatic weapons are scary, no more automatic weapons.</item>
+        <item>You prefer the basics, you can only use common guns.</item>
+        <item>You are feeling shy, don\'t enter any named areas.</item>
+        <item>When on bus, SPAM SPACE BAR. JAM IT.</item>
+        <item>You have potato aim and you prefer only shotguns and SMGs</item>
+        <item>Explosions are the only way, grenades and explosive guns are the only weapons permitted (exception: pickaxe)</item>
+        <item>Your thirst for blood comes over common sense. No picking up items off the ground. Chests, ammo boxes, and kills are okay.</item>
+        <item>You must go to every airdrop you see falling</item>
+        <item>You must go to the center of the circle as fast as you can every time the circle shrinks</item>
+        <item>You cannot carry more than three items at a time</item>
+        <item>You cannot loot airdrops</item>
+        <item>If in a group, all party members must pick separate locations to drop and then meet up</item>
+        <item>Before jumping out of the bus, you wish for a weapon (for example: I wish for an Silenced SMG (Uncommon)). Now that you made this wish, you can ONLY pick up that gun. You CAN NOT pick up lower or higher level items.</item>
+        <item>Use the very 1st weapon you see. Switch weapons with the enemies you take down</item>
+        <item>You aren\'t allowed to use scoped weapons</item>
+        <item>You are not allowed to shoot anyone unless they start shooting at someone else or they start shooting at you (end the gun violence).</item>
+        <item>After the storm comes, you can only move when the storm is moving.</item>
+        <item>You can only hide in houses on the edge of the storm and move when the storm is moving.</item>
+        <item>Crouch only during the entire game</item>
+        <item>You can only enter houses through doors. Don\'t destroy anything else! People live there!</item>
+        <item>You can only destroy house sections with doors.</item>
+        <item>You can only enter houses by destroying walls. Don\'t use doors!</item>
+        <item>Pirates and soldiers are deadly, don\'t touch there stuff! (Don\'t loot from chests.)</item>
+        <item>Don\'t use stairs. Destroy a ceiling and build your own ramp to get upstairs.</item>
+        <item>If you want to camp near trees, you have to make a treehouse first (wooden base)</item>
+        <item>Only loot houses at the 1st floor</item>
+        <item>Only loot houses from the 2nd floor and up</item>
+        <item>Jump 3 times every time you downed or killed someone</item>
+        <item>Be one with nature. Only hide and camp in or next to bushes and trees.</item>
+        <item>Make a jump pad trap. Build it right next to a small cliff and make the structures around the jump pad so that the player can only use it to jump towards the cliff. Block any other jumping directions and funnel the player to jump into the right direction.\n</item>
+    </string-array>
